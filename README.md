@@ -275,6 +275,6 @@ GPL v3.0 License
 
 ---
 
-**开发者**: Port Manager Team  
+**开发者**: Mitukasa  
 **版本**: 1.0.0  
 **最后更新**: 2026-06-17
